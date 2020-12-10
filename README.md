@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/pystatgen/sgkit-publication/tree/gh-pages) branch hosts the contents of this directory at <https://pystatgen.github.io/sgkit-publication/>.
-The permalink for this webpage version is <https://pystatgen.github.io/sgkit-publication/v/5f375dcb8c0e62e26247503e8a802c70d3d850f9/>.
+The permalink for this webpage version is <https://pystatgen.github.io/sgkit-publication/v/4f723fac8eea1bb4caea55f755efc5dc0d696fe0/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://pystatgen.github.io/sgkit-publication/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`5f375dcb8c0e62e26247503e8a802c70d3d850f9`](https://github.com/pystatgen/sgkit-publication/commit/5f375dcb8c0e62e26247503e8a802c70d3d850f9).
+[`4f723fac8eea1bb4caea55f755efc5dc0d696fe0`](https://github.com/pystatgen/sgkit-publication/commit/4f723fac8eea1bb4caea55f755efc5dc0d696fe0).
