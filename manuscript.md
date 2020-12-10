@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-12-09'
+date-meta: '2020-12-10'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Manuscript Title" />
 
-  <meta name="dc.date" content="2020-12-09" />
+  <meta name="dc.date" content="2020-12-10" />
 
-  <meta name="citation_publication_date" content="2020-12-09" />
+  <meta name="citation_publication_date" content="2020-12-10" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://pystatgen.github.io/sgkit-publication/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://pystatgen.github.io/sgkit-publication/v/5f375dcb8c0e62e26247503e8a802c70d3d850f9/" />
+  <link rel="alternate" type="text/html" href="https://pystatgen.github.io/sgkit-publication/v/4f723fac8eea1bb4caea55f755efc5dc0d696fe0/" />
 
-  <meta name="manubot_html_url_versioned" content="https://pystatgen.github.io/sgkit-publication/v/5f375dcb8c0e62e26247503e8a802c70d3d850f9/" />
+  <meta name="manubot_html_url_versioned" content="https://pystatgen.github.io/sgkit-publication/v/4f723fac8eea1bb4caea55f755efc5dc0d696fe0/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://pystatgen.github.io/sgkit-publication/v/5f375dcb8c0e62e26247503e8a802c70d3d850f9/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://pystatgen.github.io/sgkit-publication/v/4f723fac8eea1bb4caea55f755efc5dc0d696fe0/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://pystatgen.github.io/sgkit-publication/v/5f375dcb8c0e62e26247503e8a802c70d3d850f9/))
+([permalink](https://pystatgen.github.io/sgkit-publication/v/4f723fac8eea1bb4caea55f755efc5dc0d696fe0/))
 was automatically generated
-from [pystatgen/sgkit-publication@5f375dc](https://github.com/pystatgen/sgkit-publication/tree/5f375dcb8c0e62e26247503e8a802c70d3d850f9)
-on December 9, 2020.
+from [pystatgen/sgkit-publication@4f723fa](https://github.com/pystatgen/sgkit-publication/tree/4f723fac8eea1bb4caea55f755efc5dc0d696fe0)
+on December 10, 2020.
 </em></small>
 
 ## Authors
