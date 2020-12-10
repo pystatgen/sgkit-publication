@@ -1,0 +1,12 @@
+content/01.outline.md:4:PyData
+content/01.outline.md:4:scalable
+content/01.outline.md:5:Xarray
+content/01.outline.md:7:datasets
+content/01.outline.md:7:Sgkit
+content/01.outline.md:7:UKB
+content/01.outline.md:8:centric
+content/01.outline.md:8:Dask
+content/01.outline.md:8:MapReduce
+content/01.outline.md:8:MPI
+content/01.outline.md:8:Xarray
+content/01.outline.md:8:Zarr

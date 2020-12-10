@@ -1,7 +1,6 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Eric Czech
 bibliography:
 - content/manual-references.json
 date-meta: '2020-12-10'
@@ -15,13 +14,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="Scalable statistical genetic data analysis in Python" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="Scalable statistical genetic data analysis in Python" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="Scalable statistical genetic data analysis in Python" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Scalable statistical genetic data analysis in Python" />
 
   <meta name="dc.date" content="2020-12-10" />
 
@@ -39,21 +38,11 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Eric Czech" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Related Sciences LLC" />
 
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <meta name="twitter:creator" content="@johndoe" />
-
-  <meta name="citation_author" content="Jane Roe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author_orcid" content="0000-0002-4254-4255" />
 
   <link rel="canonical" href="https://pystatgen.github.io/sgkit-publication/" />
 
@@ -67,11 +56,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://pystatgen.github.io/sgkit-publication/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://pystatgen.github.io/sgkit-publication/v/4f723fac8eea1bb4caea55f755efc5dc0d696fe0/" />
+  <link rel="alternate" type="text/html" href="https://pystatgen.github.io/sgkit-publication/v/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea/" />
 
-  <meta name="manubot_html_url_versioned" content="https://pystatgen.github.io/sgkit-publication/v/4f723fac8eea1bb4caea55f755efc5dc0d696fe0/" />
+  <meta name="manubot_html_url_versioned" content="https://pystatgen.github.io/sgkit-publication/v/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://pystatgen.github.io/sgkit-publication/v/4f723fac8eea1bb4caea55f755efc5dc0d696fe0/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://pystatgen.github.io/sgkit-publication/v/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -93,7 +82,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Scalable statistical genetic data analysis in Python
 ...
 
 
@@ -103,9 +92,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://pystatgen.github.io/sgkit-publication/v/4f723fac8eea1bb4caea55f755efc5dc0d696fe0/))
+([permalink](https://pystatgen.github.io/sgkit-publication/v/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea/))
 was automatically generated
-from [pystatgen/sgkit-publication@4f723fa](https://github.com/pystatgen/sgkit-publication/tree/4f723fac8eea1bb4caea55f755efc5dc0d696fe0)
+from [pystatgen/sgkit-publication@e21a045](https://github.com/pystatgen/sgkit-publication/tree/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea)
 on December 10, 2020.
 </em></small>
 
@@ -113,26 +102,27 @@ on December 10, 2020.
 
 
 
-+ **John Doe**<br>
++ **Eric Czech**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-4254-4255](https://orcid.org/0000-0002-4254-4255)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [eric-czech](https://github.com/eric-czech)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Related Sciences LLC
   </small>
 
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
-  </small>
+
+
+## Outline {.page_break_before}
+
+- Claims
+    1. The PyData ecosystem supports development of scalable scientific software well.
+    2. The Xarray API is well suited to statistical genetic data analysis.
+    3. GPU support in Python array libraries is unparalleled and can lead to substantial gains in cost efficiency. 
+    4. Sgkit can be used to effectively analyze modern genetic datasets, e.g. Ag1000g and UKB.
+    5. Xarray, Dask and Zarr constitute a cloud-native, distributed, array-centric data processing framework that has inherent advantages over MapReduce and MPI
+        - EC: *This one may need to be reeled in a bit*   
+
 
 
 
