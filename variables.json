@@ -7,11 +7,11 @@
       "manubot"
     ],
     "lang": "en-US",
-    "date-meta": "2020-12-10",
+    "date-meta": "2021-01-07",
     "author-meta": [
       "Eric Czech"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Scalable statistical genetic data analysis in Python\" />\n<meta name=\"citation_title\" content=\"Scalable statistical genetic data analysis in Python\" />\n<meta property=\"og:title\" content=\"Scalable statistical genetic data analysis in Python\" />\n<meta property=\"twitter:title\" content=\"Scalable statistical genetic data analysis in Python\" />\n<meta name=\"dc.date\" content=\"2020-12-10\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-10\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Eric Czech\" />\n<meta name=\"citation_author_institution\" content=\"Related Sciences LLC\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4254-4255\" />\n<link rel=\"canonical\" href=\"https://pystatgen.github.io/sgkit-publication/\" />\n<meta property=\"og:url\" content=\"https://pystatgen.github.io/sgkit-publication/\" />\n<meta property=\"twitter:url\" content=\"https://pystatgen.github.io/sgkit-publication/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://pystatgen.github.io/sgkit-publication/\" />\n<meta name=\"citation_pdf_url\" content=\"https://pystatgen.github.io/sgkit-publication/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://pystatgen.github.io/sgkit-publication/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://pystatgen.github.io/sgkit-publication/v/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://pystatgen.github.io/sgkit-publication/v/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://pystatgen.github.io/sgkit-publication/v/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Scalable statistical genetic data analysis in Python\" />\n<meta name=\"citation_title\" content=\"Scalable statistical genetic data analysis in Python\" />\n<meta property=\"og:title\" content=\"Scalable statistical genetic data analysis in Python\" />\n<meta property=\"twitter:title\" content=\"Scalable statistical genetic data analysis in Python\" />\n<meta name=\"dc.date\" content=\"2021-01-07\" />\n<meta name=\"citation_publication_date\" content=\"2021-01-07\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Eric Czech\" />\n<meta name=\"citation_author_institution\" content=\"Related Sciences LLC\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4254-4255\" />\n<link rel=\"canonical\" href=\"https://pystatgen.github.io/sgkit-publication/\" />\n<meta property=\"og:url\" content=\"https://pystatgen.github.io/sgkit-publication/\" />\n<meta property=\"twitter:url\" content=\"https://pystatgen.github.io/sgkit-publication/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://pystatgen.github.io/sgkit-publication/\" />\n<meta name=\"citation_pdf_url\" content=\"https://pystatgen.github.io/sgkit-publication/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://pystatgen.github.io/sgkit-publication/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://pystatgen.github.io/sgkit-publication/v/2f042e301dede2fac5a3e1a49f36d28be34e0c13/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://pystatgen.github.io/sgkit-publication/v/2f042e301dede2fac5a3e1a49f36d28be34e0c13/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://pystatgen.github.io/sgkit-publication/v/2f042e301dede2fac5a3e1a49f36d28be34e0c13/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -21,7 +21,7 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "December 10, 2020",
+    "date": "January 7, 2021",
     "authors": [
       {
         "github": "eric-czech",
@@ -48,19 +48,19 @@
       "repo_slug": "pystatgen/sgkit-publication",
       "repo_owner": "pystatgen",
       "repo_name": "sgkit-publication",
-      "commit": "e21a04564a8f47807c80c7a1a5c51d17b0bd8aea",
-      "triggering_commit": "e21a04564a8f47807c80c7a1a5c51d17b0bd8aea",
-      "build_url": "https://github.com/pystatgen/sgkit-publication/commit/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea/checks",
+      "commit": "2f042e301dede2fac5a3e1a49f36d28be34e0c13",
+      "triggering_commit": "2f042e301dede2fac5a3e1a49f36d28be34e0c13",
+      "build_url": "https://github.com/pystatgen/sgkit-publication/commit/2f042e301dede2fac5a3e1a49f36d28be34e0c13/checks",
       "job_url": "https://github.com/pystatgen/sgkit-publication/runs/run3"
     },
     "html_url": "https://pystatgen.github.io/sgkit-publication/",
     "pdf_url": "https://pystatgen.github.io/sgkit-publication/manuscript.pdf",
-    "html_url_versioned": "https://pystatgen.github.io/sgkit-publication/v/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea/",
-    "pdf_url_versioned": "https://pystatgen.github.io/sgkit-publication/v/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea/manuscript.pdf",
+    "html_url_versioned": "https://pystatgen.github.io/sgkit-publication/v/2f042e301dede2fac5a3e1a49f36d28be34e0c13/",
+    "pdf_url_versioned": "https://pystatgen.github.io/sgkit-publication/v/2f042e301dede2fac5a3e1a49f36d28be34e0c13/manuscript.pdf",
     "manubot_version": "0.4.1",
     "rootstock_commit": "97b294802ffcd39071b6e5b8ab59f60faf4be118",
     "manuscript_stats": {
-      "word_count": 340
+      "word_count": 342
     }
   }
 }

@@ -3,7 +3,7 @@ author-meta:
 - Eric Czech
 bibliography:
 - content/manual-references.json
-date-meta: '2020-12-10'
+date-meta: '2021-01-07'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Scalable statistical genetic data analysis in Python" />
 
-  <meta name="dc.date" content="2020-12-10" />
+  <meta name="dc.date" content="2021-01-07" />
 
-  <meta name="citation_publication_date" content="2020-12-10" />
+  <meta name="citation_publication_date" content="2021-01-07" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -56,11 +56,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://pystatgen.github.io/sgkit-publication/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://pystatgen.github.io/sgkit-publication/v/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea/" />
+  <link rel="alternate" type="text/html" href="https://pystatgen.github.io/sgkit-publication/v/2f042e301dede2fac5a3e1a49f36d28be34e0c13/" />
 
-  <meta name="manubot_html_url_versioned" content="https://pystatgen.github.io/sgkit-publication/v/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea/" />
+  <meta name="manubot_html_url_versioned" content="https://pystatgen.github.io/sgkit-publication/v/2f042e301dede2fac5a3e1a49f36d28be34e0c13/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://pystatgen.github.io/sgkit-publication/v/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://pystatgen.github.io/sgkit-publication/v/2f042e301dede2fac5a3e1a49f36d28be34e0c13/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -92,10 +92,10 @@ title: Scalable statistical genetic data analysis in Python
 
 <small><em>
 This manuscript
-([permalink](https://pystatgen.github.io/sgkit-publication/v/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea/))
+([permalink](https://pystatgen.github.io/sgkit-publication/v/2f042e301dede2fac5a3e1a49f36d28be34e0c13/))
 was automatically generated
-from [pystatgen/sgkit-publication@e21a045](https://github.com/pystatgen/sgkit-publication/tree/e21a04564a8f47807c80c7a1a5c51d17b0bd8aea)
-on December 10, 2020.
+from [pystatgen/sgkit-publication@2f042e3](https://github.com/pystatgen/sgkit-publication/tree/2f042e301dede2fac5a3e1a49f36d28be34e0c13)
+on January 7, 2021.
 </em></small>
 
 ## Authors
@@ -120,7 +120,7 @@ on December 10, 2020.
     2. The Xarray API is well suited to statistical genetic data analysis.
     3. GPU support in Python array libraries is unparalleled and can lead to substantial gains in cost efficiency. 
     4. Sgkit can be used to effectively analyze modern genetic datasets, e.g. Ag1000g and UKB.
-    5. Xarray, Dask and Zarr constitute a cloud-native, distributed, array-centric data processing framework that has inherent advantages over MapReduce and MPI
+    5. Xarray, Dask and Zarr constitute a cloud-native, distributed, array-centric data processing framework that has inherent advantages over MapReduce and MPI for genetics
         - EC: *This one may need to be reeled in a bit*   
 
 
